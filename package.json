@@ -1,0 +1,8 @@
+{
+	"name": "uniid",
+	"version": "1.0.0",
+	"description": "A powerful, lightweight unique identifier generator.",
+	"main": "index.js",
+	"author": "Krit Dass",
+	"license": "MIT"
+}
